@@ -1,5 +1,7 @@
 # Rage Against the Meshine
 
+![ratm2_demo](https://github.com/user-attachments/assets/a9c1fab9-2bc8-462b-8c41-18d092704b79)
+
 A Discord bot for Meshtastic network integration, enabling communication between Meshtastic mesh networks and Discord channels. It is the sucessor to the original bot: https://github.com/baymesh/ratm-meshtastic-discord-bot
 
 ## 📝 Project Overview
